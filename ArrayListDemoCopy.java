@@ -9,7 +9,7 @@ public class ArrayListDemo {
 
 		ArrayList l= new ArrayList();
 		
-		
+		//removed two ines of code
 		l.add("A");
 		l.add(null);
 		System.out.println(l);
